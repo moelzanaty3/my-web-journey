@@ -29,7 +29,7 @@
     "shortid": "^2.2.16",
     "stripe": "^8.129.0",
     "uuid": "^8.3.2",
-    "validator": "^13.5.2"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
