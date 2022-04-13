@@ -16,7 +16,7 @@
     "@types/hapi": "^18.0.2",
     "hapi": "^16.1.0",
     "mongodb": "^2.2.22",
-    "@hapi/hapi": "^18.3.1"
+    "@hapi/hapi": "^19.1.1"
   },
   "prettier": {
     "singleQuote": false,
