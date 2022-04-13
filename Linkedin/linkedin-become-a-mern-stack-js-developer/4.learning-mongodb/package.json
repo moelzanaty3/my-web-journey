@@ -15,7 +15,7 @@
   "dependencies": {
     "@types/hapi": "^18.0.2",
     "hapi": "^16.1.0",
-    "mongodb": "^2.2.22",
+    "mongodb": "^3.1.13",
     "@hapi/hapi": "^18.3.1"
   },
   "prettier": {
