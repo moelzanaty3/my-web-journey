@@ -13,7 +13,7 @@
     "ssr-solution": "supervisor -- -r @babel/register 'subjects/13-Server-Rendering/solution/server.js'"
   },
   "dependencies": {
-    "@babel/core": "^7.1.5",
+    "@babel/core": "^7.20.12",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/preset-env": "^7.1.5",
     "@babel/preset-react": "^7.0.0",
